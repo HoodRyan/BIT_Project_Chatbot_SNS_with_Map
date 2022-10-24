@@ -6,7 +6,7 @@
 
 🎥 실행 영상(유튜브) : [https://youtu.be/_4lyLtQqSW4](https://youtu.be/_4lyLtQqSW4) </br>
 ## Team
-😀 태용 : [https://github.com/GauelF](https://github.com/GauelF)</br>
+😀 태용 : [https://github.com/GauelF](https://github.com/HoodRyan)</br>
 😀 원진 : [https://github.com/jangwon3828](https://github.com/jangwon3828)</br>
 😀 우현 : [https://github.com/woohyeonjoe](https://github.com/woohyeonjoe)</br>
 😀 준혁 : [https://github.com/oddnine](https://github.com/oddnine)</br>
